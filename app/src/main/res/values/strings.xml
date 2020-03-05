@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GIF Search</string>
+
+    <string name="hint_search">Search here…</string>
+
+    <string name="text_search_main">Search for GIF files clicking on</string>
+    <string name="text_no_results">No results found</string>
+
+    <string name="title_trending">Trending</string>
+    <string name="title_gif_details">GIF Details</string>
+</resources>
